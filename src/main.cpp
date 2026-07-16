@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    
     Student students[DEFAULT_STUDENT_COUNT] = {
         {"A123", "Alex", 91.5},
         {"B456", "Maya", 84.0},
